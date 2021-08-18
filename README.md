@@ -1,0 +1,1 @@
+This is a collection of codes that I have completed on the CODING BLOCKS Algo ++ course till now. I will update the codes every week. This also includes some important problems from SPOJ, Codechef Long Challenges and Codeforces.
